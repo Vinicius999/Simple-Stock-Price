@@ -20,7 +20,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Vini-python" width="40" height="40" />
     </a>
 	<a href="https://streamlit.io/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/Vinicius999/Simple-Stock-Price/blob/main/images/streamlit-logo.png?raw=true" alt="Vini-streamlit" width="40" height="40" />
+        <img src="https://github.com/Vinicius999/Simple-Stock-Price/blob/main/images/streamlit-logo-1.png?raw=true" alt="Vini-streamlit" width="40" height="40" />
     </a>
 </p>
 
@@ -36,8 +36,6 @@
 <p>
     <img src="https://github.com/Vinicius999/Simple-Stock-Price/blob/main/images/image01-1-closing-price.png?raw=true"/>
 </p>
-
-
 
 #### Visualização de Volume da Ação
 
