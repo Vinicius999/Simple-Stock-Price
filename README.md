@@ -20,7 +20,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Vini-python" width="40" height="40" />
     </a>
 	<a href="https://streamlit.io/" target="_blank" rel="noreferrer">
-        <img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" alt="Vini-streamlit" width="45" height="22" />
+        <img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" alt="Vini-streamlit" width="45" height="22" padding="5" />
     </a>
 </p>
 
